@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\bin\Debug\net8.0\CAOOPS.exe
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\bin\Debug\net8.0\CAOOPS.deps.json
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\bin\Debug\net8.0\CAOOPS.runtimeconfig.json
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\bin\Debug\net8.0\CAOOPS.dll
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\bin\Debug\net8.0\CAOOPS.pdb
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\obj\Debug\net8.0\CAOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\obj\Debug\net8.0\CAOOPS.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\obj\Debug\net8.0\CAOOPS.AssemblyInfo.cs
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\obj\Debug\net8.0\CAOOPS.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\obj\Debug\net8.0\CAOOPS.dll
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\obj\Debug\net8.0\refint\CAOOPS.dll
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\obj\Debug\net8.0\CAOOPS.pdb
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\obj\Debug\net8.0\CAOOPS.genruntimeconfig.cache
+C:\Users\LENOVO\source\Training\CAOOPS\CAOOPS\obj\Debug\net8.0\ref\CAOOPS.dll
